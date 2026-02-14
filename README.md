@@ -39,7 +39,7 @@ venv\Scripts\activate
 pip install -r requirements.txt
 
 **Project Structure**
-AirDrawing/
+Virtual-Air-Drawing/
 │
 ├── main.py
 ├── hand_tracker.py
